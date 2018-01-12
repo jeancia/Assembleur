@@ -2,7 +2,7 @@
 
 *Hello.asm*
 
-This is a small programme who a print hello world.
+This is a small programme who print hello world in a console.
 
 
 
